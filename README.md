@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm gradually moving all my private repos from here to CodeBerg: https://codeberg.org/chainq
+Only the ones that require cooperation on GitHub will stay.
+
 <!--
 **chainq/chainq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
